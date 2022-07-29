@@ -9,5 +9,9 @@
 
 [![buithithuy31 gitHub stats](https://github-readme-stats.vercel.app/api?username=buithithuy31&show_icons=true&theme=tokyonight)](https://github.com/buithithuy31)
 
+## OS
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ## Contact
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/buithithuy.3103)
