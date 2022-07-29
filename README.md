@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Thi Thuy</h1>
-<h3 align="center">A passionate frontend developer from Vietnamese</h3>
-
+<!-- <h3 align="center">A passionate frontend developer from Vietnamese</h3> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,6 +7,10 @@
 
 
 [![buithithuy31 gitHub stats](https://github-readme-stats.vercel.app/api?username=buithithuy31&show_icons=true&theme=tokyonight)](https://github.com/buithithuy31)
+
+## Text Editor & IDE
+
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## OS
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
