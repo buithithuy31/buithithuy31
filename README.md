@@ -8,6 +8,7 @@
 
 [![buithithuy31 gitHub stats](https://github-readme-stats.vercel.app/api?username=buithithuy31&show_icons=true&theme=tokyonight)](https://github.com/buithithuy31)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buithithuy31&theme=radical&title_color=8E2DE2&text_color=fff)
 ## Text Editor & IDE
 
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
