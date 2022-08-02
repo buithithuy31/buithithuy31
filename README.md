@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Thi Thuy</h1>
-<!-- <h3 align="center">A passionate frontend developer from Vietnamese</h3> -->
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
