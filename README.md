@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bui Thi Thuy</h1>
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img align="flex" width="200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
